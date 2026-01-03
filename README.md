@@ -1,4 +1,4 @@
-<img width="327" height="501" alt="image" src="https://github.com/user-attachments/assets/b38e8724-eef7-43a4-9ee3-ba4a8e522dcf" /># 🚀 Hướng Dẫn Triển Khai Hệ Thống (Deployment Guide)
+# 🚀 Hướng Dẫn Triển Khai Hệ Thống (Deployment Guide)
 
 **Tác giả:** Đặng Nhật Tiến  
 **Vị trí:** Software Engineer / AI Engineer  
@@ -91,11 +91,11 @@ kind create cluster --name kind
 
 <details>
 <summary><b>📄 be-deployment.yaml (Click để xem code)</b></summary>
-</details>
 <div>
     <img width="327" height="501" alt="image" src="https://github.com/user-attachments/assets/bcfbbdd1-7463-4870-89a7-cb3b6d424ab9" />
 
 </div>
+</details>
 
 
 
