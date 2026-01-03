@@ -2,6 +2,8 @@ bật Powershell với adminstrator sau đó chạy lệnh wsl -d Ubuntu để c
 cd vào folder chứa dự án
 tạo Dockerfile trong các folder chứa dự án gốc
 - BE spring thì tạo Dockerfile cùng cấp với dự án bằng câu lệnh: nano Dockerfile
+- <img width="408" height="303" alt="image" src="https://github.com/user-attachments/assets/d8fdde17-3db7-4e62-8a72-48d487a52839" />
+
 Dockerfile có cấu trúc:
 FROM chọn image phù hợp với dự án
 WORKDIR tạo thư mục bên trong container
