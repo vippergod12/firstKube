@@ -1,7 +1,7 @@
 # 🚀 Hướng Dẫn Triển Khai Hệ Thống (Deployment Guide)
 
 **Tác giả:** Đặng Nhật Tiến  
-**Vị trí:** Software Engineer / AI Engineer  
+**Vị trí:** Software Engineer  
 **Dự án:** DATN_AILMS
 
 ---
